@@ -215,7 +215,7 @@ body {
 
 .card {
   position: relative;
-  height: 596px;
+  min-height: 596px;
   width: 334px;
   padding: 50px 40px;
   background-size: cover;
